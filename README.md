@@ -1,6 +1,6 @@
 # Dashboard IoT con Vuetify
 
-Este proyecto es una aplicación web desarrollada en Vue.js para el curso de Formación Permanente en Internet de las Cosas (IoT). Utiliza Vuetify para crear un entorno visualmente atractivo y profesional. La aplicación sirve como un dashboard que permite la comunicación y gestión de dispositivos IoT, proporcionando una interfaz de usuario intuitiva y eficiente.
+Este proyecto es una aplicación web desarrollada en Vue.js . Utiliza Vuetify para crear un entorno visualmente atractivo y profesional. La aplicación sirve como un dashboard que permite la comunicación y gestión de dispositivos IoT, proporcionando una interfaz de usuario intuitiva y eficiente.
 
 ## ❗️ Enlaces  de vuetify
 
